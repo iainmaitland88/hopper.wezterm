@@ -1,4 +1,4 @@
-# hoppper.wezterm
+# hopper.wezterm
 
 A super duper simple wezterm plugin to jump over words with arrow keys.
 
